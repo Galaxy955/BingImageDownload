@@ -1,10 +1,10 @@
 # <img src="./res/icon.png" style="width:80px"> 每日 Bing 美图下载
 
-[toc]
-
 ## 微软必应介绍
 
 Bing 是微软开发的一款搜索引擎，其使用方法与 Google、百度相似，但会在每天更新一章美图作为搜索引擎的壁纸。相较于 Google 更加好看，相较于百度更加干净，因此备受欢迎。近日，微软宣布将大火的 ChatGPT 接入 Bing，进一步完善了 Bing 的功能。
+
+<img src="./res/bing_background.jpg">
 
 ## 每日 Bing 美图下载介绍
 
