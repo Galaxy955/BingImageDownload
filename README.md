@@ -19,3 +19,6 @@ Bing 是微软开发的一款搜索引擎，其使用方法与 Google、百度�
 ## Windows 版本
 
 <span id="1">因为开发使用的平台为 macOS 平台故没有打包 Windows 版本</span>，如果需要使用 Windows 版本可在 GitHub 中下载源代码后自行编译打包。**注意：保存图片的路径使用的是 macOS 的路径，如果需要移植到 Windows 平台请根据 Windows 文件系统的路径修改相关代码。**
+
+<img src="./res/save_image_code.jpg">
+
